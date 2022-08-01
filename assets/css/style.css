@@ -13,15 +13,18 @@ textarea {
   padding: 10px;
 }
 
+/* added to exising css file to extend hourly display to resemble demo */
 span {
   width: 100px;
   justify-content: flex-end;
 }
 
+/* added custom-row to existing css file to allow blank line between timeblocks */
 .custom-row {
   height: 90px !important;
 }
 
+/* added custom-icon to exising css to increase the size of the floppy disk icon */
 .custom-icon {
   width: 20px;
   height: 20px;
